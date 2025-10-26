@@ -1,26 +1,6 @@
 {
-  "name": "serverless-email-api",
-  "version": "1.0.0",
-  "description": "Serverless API for sending emails",
-  "main": "handler.js",
-  "scripts": {
-    "start": "serverless offline start",
-    "deploy": "serverless deploy",
-    "remove": "serverless remove"
-  },
-  "keywords": [
-    "serverless",
-    "email",
-    "api"
-  ],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^2.7.0",
-    "nodemailer": "^7.0.10"
-  },
   "devDependencies": {
-    "dotenv": "^17.2.3",
-    "serverless-offline": "^14.4.0"
+    "serverless-offline": "^14.4.0",
+    "serverless-python-requirements": "^6.1.2"
   }
 }

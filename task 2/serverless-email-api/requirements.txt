@@ -1,0 +1,6 @@
+1. Click **File → New File**
+2. Paste this single line:
+```
+python-dotenv==1.0.0
+```
+3. Save as `requirements.txt`

@@ -1,14 +1,8 @@
-# Environment variables
 .env
-
-# Dependencies
-node_modules/
-
-# Serverless
+*.pyc
+__pycache__/
 .serverless/
-
-# AWS
-.aws/
-
-# Logs
+node_modules/
+venv/
 *.log
+.DS_Store
