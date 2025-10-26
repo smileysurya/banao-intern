@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Serverless
+.serverless/
+
+# AWS
+.aws/
+
+# Logs
+*.log
